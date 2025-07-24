@@ -1,7 +1,9 @@
 # 🏠 House Price Prediction using Linear Regression
 
 ## 📌 Project Aim
-To build a **linear regression model** to predict house prices.
+To build a **linear regression model** to predict house prices based on features such as:
+- Number of bedrooms
+- Square footage (or area)
 
 ---
 
